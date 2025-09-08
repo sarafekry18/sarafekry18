@@ -27,15 +27,19 @@ learn new technologies and enhance technical and creative skills.
 
 ------------------------------------------------------------------------
 
+<div align="center">
+  
 ![](https://readme-components.vercel.app/api?component=logo&fill=black&logo=html5&svgfill=f06629)
 ![](https://readme-components.vercel.app/api?component=logo&fill=black&logo=CSS3&svgfill=028dd1)
-![](https://readme-components.vercel.app/api?component=logo&fill=black&logo=typescript&svgfill=2d79c7)
+[![Bootstrap](https://readme-components.vercel.app/api?component=logo&fill=black&logo=bootstrap&svgfill=7952b3)](https://getbootstrap.com/)
 ![](https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&svgfill=f6df1c)
+![](https://readme-components.vercel.app/api?component=logo&fill=black&logo=typescript&svgfill=2d79c7)
 ![](https://readme-components.vercel.app/api?component=logo&fill=black&logo=sass&svgfill=cd6799)
 ![](https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe)
 ![](https://readme-components.vercel.app/api?component=logo&fill=black&logo=github)
 ![](https://readme-components.vercel.app/api?component=logo&fill=black&logo=python&svgfill=3776AB)
 ![](https://readme-components.vercel.app/api?component=logo&fill=black&logo=cplusplus&svgfill=00599C)
+</div>
 
 <div align="center">
   
