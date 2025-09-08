@@ -43,9 +43,14 @@ learn new technologies and enhance technical and creative skills.
 ![](https://readme-components.vercel.app/api?component=logo&fill=black&logo=python&svgfill=3776AB)
 ![](https://readme-components.vercel.app/api?component=logo&fill=black&logo=cplusplus&svgfill=00599C)
 </div>
+<div align="center">
+
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+</div>
+
 
 <div align="center">
-  
+
 ![languages
 graph](https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false)
 </div>
