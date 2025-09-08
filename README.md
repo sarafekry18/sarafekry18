@@ -9,7 +9,10 @@ Development** and committed to creating effective and userfriendly
 solutions. Highly organized, detail-oriented, and eager to contribute to
 the Web & User Interface Development track. Motivated to continuously
 learn new technologies and enhance technical and creative skills.
+<div align="center">
+  
 ![gif](image/mythikore-anime-girl.gif)
+</div>
 
 
 
